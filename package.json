@@ -11,32 +11,44 @@
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
-    "dependencies": {
-  "@testing-library/jest-dom": "^5.17.0",
-  "@testing-library/react": "^13.4.0",
-  "@testing-library/user-event": "^13.5.0",
-  "gh-pages": "^6.0.0",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-scripts": "5.0.1",
-  "web-vitals": "^2.1.4"
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
-   "eslintConfig": {
-   "extends": "react-app"
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "browserslist": {
-  "production": [">0.2%", "not dead", "not ie 11", "not op_mini all"],
-  "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
-},
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not ie 11",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "repository": {
     "type": "git",
-    "url":"git+https://github.com/Lazuri08/COMP3104"
+    "url": "git+https://github.com/Lazuri08/COMP3104"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url":"https://github.com/Lazuri08/COMP3104/issues"
+    "url": "https://github.com/Lazuri08/COMP3104/issues"
   },
-  "homepage": "https://github.com/Lazuri08/COMP3104#readme"
+  "homepage": "https://github.com/Lazuri08/COMP3104#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
