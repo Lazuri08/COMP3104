@@ -29,7 +29,7 @@
    "Not dead",
    "Not ie <= 11",
    "Not op_mini all"
-   ]
+   ],
   "repository": {
     "type": "git",
     "url":"git+https://github.com/Lazuri08/COMP3104"
