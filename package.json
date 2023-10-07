@@ -21,6 +21,15 @@
   "react-scripts": "5.0.1",
   "web-vitals": "^2.1.4"
   },
+   "eslintConfig": {
+   "Extends": "react-app"
+  },
+   "Browserslist":[
+   ">0.2%",
+   "Not dead",
+   "Not ie <= 11",
+   "Not op_mini all"
+   ]
   "repository": {
     "type": "git",
     "url":"git+https://github.com/Lazuri08/COMP3104"
