@@ -22,9 +22,9 @@
   "web-vitals": "^2.1.4"
   },
    "eslintConfig": {
-   "Extends": "react-app"
+   "extends": "react-app"
   },
-   "Browserslist":[
+   "browserslist":[
    ">0.2%",
    "Not dead",
    "Not ie <= 11",
